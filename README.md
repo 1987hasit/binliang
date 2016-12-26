@@ -1,2 +1,1 @@
-# binliang
-Bin Liang's personal website on github
+Code for Bin Liang's Personal Website.

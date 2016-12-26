@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <title>Bin Liang's Home Page</title>
+  <meta name="description" content="Bin Liang's Home Page" />
+  <meta name="author" content="Bin Liang/>
+  <meta name="keywords" content="Bin Liang, CSU" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+  <!-- favicon -->
+  <link rel="shortcut icon" href="resouces/images/favicon.ico" type="image/ico">
+</head>
+
+<body>
+  <div id="main">
+    <div id="links"></div>
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="blue", allows you to change the colour of the text - other classes are: "green", "orange", "red", "purple" and "yellow" -->
+          <h1>@ Bin Liang</h1>
+          <h2><!--A simple, snow scene, website template--></h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="tab_selected" in the li tag for the selected page - to highlight which page you're on -->
+          <li class="tab_selected"><a href="index.html">Home</a></li>
+		  <!--
+          <li><a href="our_services.html">Our Services</a></li>
+          <li><a href="about_us.html">About Us</a></li>
+          <li><a href="styles.html">Styles</a></li>
+          <li><a href="other.html">Other</a></li>
+		  -->
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+        <!-- insert your sidebar items here -->
+		<!--
+        <h1>Latest News</h1>
+        <h2>New Website Launched</h2>
+        <h3>January 1st, 2010</h3>
+		-->
+		<ul> 
+			<li class="pic">
+				<span class="right">
+					<img src="resouces/images/BinLiang_small.jpg" alt="Bin Liang" width="158" border=0/>
+				</span>
+			</li> 
+		</ul> 
+		<p>
+			PhD student, <a href="http://www.csu.edu.au/faculty/business/comp-math" target="_blank" title="School of Computing and Mathematics">SCM</a> <a href="http://www.csu.edu.au/" target="_blank" title="Charles Sturt University">CSU</a>  
+			<br/>
+			<img src="resouces/images/email.png" alt="email"/>
+			<br/>
+			Building 4, Room 105<br/> 
+			<a href="http://www.csu.edu.au/" target="_blank" title="Charles Sturt University">Charles Sturt University</a>
+			<a href="http://www.linkedin.com/in/1987hasit" title="linkedin" target="_blank" ><img class="favicon" src="http://s.c.lnkd.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"/></a>
+			<a href="http://scholar.google.com.au/citations?user=qt8kAwoAAAAJ" title="google scholar" target="_blank"><img class="favicon" src="http://scholar.google.com.au/favicon-png.ico"/></a>
+			<a href="https://github.com/1987hasit" title="github" target="_blank"><img class="favicon" src="http://g.etfv.co/http://www.github.com"/></a>		
+			<!--<img src="resouces/images/qrcode.png" alt="QR code"/>-->
+		</p>
+        <h2>QUICK LINKS</h2>
+        <ul>
+          <li><a href="#">CV (Coming soon...)</a></li>
+		  <li><a href="http://scholar.google.com.au/citations?user=qt8kAwoAAAAJ" title="google scholar" target="_blank">Google scholar</a></li>
+          <li><a href="https://github.com/1987hasit" title="github" target="_blank">GitHub</a></li>
+        </ul>
+		<!--
+        <h1>Useful Info</h1>
+        <p>You can put anything you like in the sidebar. Latest news, useful links, images, contact information. Anything you think the visitor will find useful.</p>
+		-->
+
+		<!-- clustrmaps -->
+		<div id="clustrmaps-widget"></div>
+		<script type="text/javascript">
+			var _clustrmaps = {'url' : 'http://csusap.csu.edu.au/~bliang03/', 'user' : 1125009, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2013-12-12', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www2.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();
+		</script>
+		<noscript>
+			<a href="http://www2.clustrmaps.com/user/a18112a91"><img src="http://www2.clustrmaps.com/stats/maps-no_clusters/csusap.csu.edu.au-~bliang03--thumb.jpg" alt="Locations of visitors to this page" /></a>
+		</noscript>
+		<!-- clustrmaps -->
+
+      </div>
+	  
+      <div id="content">
+        <!-- insert the page content here -->
+        <h2><strong>Who am I?</strong></h2>
+		<p>I am a second year PhD student at <a href="http://www.csu.edu.au/" target="_blank" title="Charles Sturt University">Charles Sturt University</a>. I'm doing research in the Gesture Recognition Using Depht Images at School of <a href="http://www.csu.edu.au/faculty/business/comp-math" target="_blank" title="School of Computing and Mathematics">Computing and Mathematics</a> under the guidence of <a href="http://www.csu.edu.au/faculty/business/comp-math/staff/profiles/senior-lecturers/lihong-zheng" target="_blank" title="Dr. Lihong Zheng">Dr. Lihong Zheng</a>. I obtained a master's degree in Computer Software and Theory in July 2012 and a bachlor's degree in <a href="http://www.tyut.edu.cn/ccst/index.asp" target="_blank" title="Computer Science and Technology">Computer Science and Technology</a> in July 2009, both from <a href="http://www.tyut.edu.cn/newsite2/" target="_blank" title="Taiyuan University of Technology">Taiyuan University of Technology</a>.</p>
+
+		<h2><strong>Research Interests</strong></h2>
+		<ul>
+			<li>Computer Vision</li>
+			<li>Pattern Recognition</li>
+			<li>Machine Learning</li>
+			<li>Image Processing</li>
+		</ul>
+
+		<h2><strong>Curriculum Vite</strong></h2>
+		<ul>
+			<li><a href="#" title="resume" target="_blank">Resume.pdf</a> (coming soon...)</li>
+			<li><a href="http://www.linkedin.com/in/1987hasit" title="linkedin" target="_blank">LinkedIn</a></li>
+		</ul>
+
+		<h2><strong>Publications</strong> <small style="font-size: 12px;"><a href="http://scholar.google.com.au/citations?user=qt8kAwoAAAAJ" title="google scholar" target="_blank">Google Scholar</a></small></h2>
+		<ol>
+			<li>coming soon ...</li>
+		</ol>
+      </div>
+
+    </div>
+    <div id="footer">Copyright &copy; Bin Liang 
+	<!--
+	(
+	<a href="https://www.facebook.com/bin.liang.ty" title="facebook" target="_blank"><img class="favicon" src="http://g.etfv.co/http://www.facebook.com"/></a>
+	<a href="https://twitter.com/liang_bin" title="twitter" target="_blank"><img class="favicon" src="http://g.etfv.co/http://www.twitter.com"/></a>
+	<a href="http://www.weibo.com/1987hasit" title="weibo" target="_blank"><img class="favicon" src="http://g.etfv.co/http://www.weibo.com"/></a>
+	)
+	-->
+	| <!-- modified from <a href="http://www.dcarter.co.uk" target="_blank" title="dcarter design">design by dcarter</a> |--> Last Updated: 22 Dec, 2013
+	</div>
+</body>
+</html>
